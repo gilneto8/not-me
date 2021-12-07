@@ -1,6 +1,6 @@
 {
   "name": "not-me-resolver-react-hook-form",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React Hook Form resolver for the Not-Me validation library",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -36,8 +36,8 @@
   },
   "dependencies": {},
   "peerDependencies": {
-    "react-hook-form": "^7.6.8",
-    "not-me": "^2.0.1"
+    "react-hook-form": "^7.21.0",
+    "not-me": "^4.3.4"
   },
   "devDependencies": {
     "@types/jest": "^26.0.22",
